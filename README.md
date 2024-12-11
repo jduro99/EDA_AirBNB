@@ -19,3 +19,6 @@
 13. **availability_365**: Número de días al año que el alojamiento está disponible para reserva.
 14. **number_of_reviews_ltm**: Número de reseñas recibidas en los últimos 12 meses.
 15. **review_scores_rating**: Media del rating por alojamiento.
+
+## Objetivo:
+El objetivo de este proyecto es analizar la rentabilidad tanto bor barrio como por tipo de alojamiento de la ciudad de Málaga. El proyecto consta de un archivo "Proyecto_modulo_2.ipynb" donde está la mayor parte del código y en el que podemos observar el análisis exploratorio de datos, un archivo "app.py" con la app web en streamlit utilizada para presentar los resultados y las conclusiones, y un archivo de powerbi a modo de informe resumen.
